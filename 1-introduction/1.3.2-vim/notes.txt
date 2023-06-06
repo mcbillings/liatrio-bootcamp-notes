@@ -1,0 +1,31 @@
+Section 1.3.2 Notes
+===================
+
+Vim has 4 modes--
+
+Insert for adding text (What I'm using to type this now!)
+Normal to move around and manipulate test
+Visual for selecting blocks of text
+Command for using commands
+
+Normal Mode
+--------------
+-Accessed by pressing esc
+-Can switch to insert mode using 'i'
+-various keys traverse the text in various ways
+
+Insert Mode
+------------
+-Accessed by pressing 'i'
+-Can switch to Normal mode using esc
+-Mostly just normal typing
+
+Visual Mode 
+--------------
+-v entered visual mode and begins the selection at the cursor's position
+-useful for managing large blocks of text at the same time
+
+Command Mode
+--------------
+-Accessed by typing ":" in Normal mode
+-This is the mode you can use to save and quit

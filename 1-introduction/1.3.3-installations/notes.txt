@@ -1,0 +1,22 @@
+Section 1.3.3 - Installations
+=============================
+
+Different Linux distros use different package managers
+--Since we're using Mac for the bootcamp, we use homebrew
+
+You can search for different packages with each package manager
+-Use "brew search" when using Homebrew
+
+Once you know the name of the package you want to install, you can do so by using "brew cask install [package name]"
+
+Occasionally, a package won't be available from the central yum/apt repository. In those cases, you can add the repository yourself using the following process:
+
+1. Download repo key (wget, curl)
+2. Update your package list
+3. Install the package
+
+You can check for updates using "brew update; brew outdated"
+
+You can update packages using "brew upgrade"
+
+

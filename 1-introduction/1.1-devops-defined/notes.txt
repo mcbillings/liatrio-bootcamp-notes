@@ -1,0 +1,25 @@
+Section 1.1 Notes
+=================
+
+DevOps generally serves as a method for easing tension and bottlenecks associated with the overall development process-- All the way from development and into production.
+
+There are several acronyms and concepts that are all affiliated with this goal
+
+The Three Ways
+--------------
+1. Systems Thinking
+2. Amplifying Feedback Loops
+3. Culture of Continuous Experimentation and Learning
+
+CAMS
+--------------
+(C)ulture
+(A)utomation
+(M)easurement
+(S)haring
+
+ICE
+-------------
+(I)nclusivity
+(C)omplex Systems
+(E)mpathy

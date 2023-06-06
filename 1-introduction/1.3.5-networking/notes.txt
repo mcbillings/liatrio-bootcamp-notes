@@ -1,0 +1,25 @@
+Section 1.3.5 - Networking Basics
+=================================
+
+IP addresses are unique to each individual device on a network
+-One device can have several IP addresses, but one IP address cannot have multiple devices attached to it
+
+Hostnames are a way of identifying an IP address with a more human readable form-- such as google.com, which is later resolved into an actual IP address
+
+Ports represent different connections a device can have at the same time
+-Servers will usually only accept communication on specified ports
+-Some known ports include: SSH: 22; HTTP: 80; HTTPS: 443
+
+Subents refer to specific networks, denoted by the begining numbers of IP addresses
+
+There are a few IP ranges that are reserved as private addresses, and will never be assigned as a public IP
+-Examples include 10.0.0.0/8; 172.16.0.0/12; 192.168.0.0/16
+
+Exercise
+
+1. Subnet: 192.168.0.0/24
+2. 255 available IPs
+3. 192.168.0.65
+4. It was either randomly assigned within the subnet or was manually assigned
+5. 98.208.42.143
+6. The router likely knows both my public and private ip, and knows where to direct packets when they're sent to my public ip based on my private ip

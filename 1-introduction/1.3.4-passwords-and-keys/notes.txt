@@ -1,0 +1,7 @@
+Section 1.3.4 - Passwords and Keys
+==================================
+
+Passwords become less convienent the more secure they are, so they aren't always the best option -- However, there are several password managers available to help mitigate the inconvenience
+
+Another method of authentication is the usage of public and private keys
+-The host has a copy of the public key, which can then be used to verify the client has the correct private key without revealing the private key

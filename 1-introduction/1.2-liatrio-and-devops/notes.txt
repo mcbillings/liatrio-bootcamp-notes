@@ -1,0 +1,6 @@
+Section 1.2 Notes
+===================
+
+Liatrio works directly with various clients to help them rework their production processes to be more effective and efficent. 
+
+DevOps as a whole is a response to growing complexity in technology, and aims to mitiagte the pain of software deployment and delivery. It goes hand and hand with agile development.
